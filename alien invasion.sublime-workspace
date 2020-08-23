@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"finished",
+				"finished_sandwiches"
+			],
+			[
+				"sand",
+				"sandwich_orders"
+			],
+			[
+				"san",
+				"sandwich_orders"
+			],
+			[
+				"pol",
+				"polling_active"
+			],
+			[
+				"con",
+				"confirmed_user"
+			],
+			[
+				"uncon",
+				"unconfirmed_users"
+			],
+			[
+				"un",
+				"unconfirmed_users"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"alien",
+				"alien_2"
+			],
+			[
+				"m",
+				"main_men"
+			],
+			[
+				"coun",
+				"country_rivers"
+			],
+			[
+				"langu",
+				"language"
+			],
+			[
+				"fr",
+				"favorite_languages"
+			],
+			[
+				"fav",
+				"favorite_languages"
+			],
+			[
+				"new",
+				"new_tenant"
+			],
+			[
+				"poin",
+				"point_value"
+			],
+			[
+				"x",
+				"x_position"
+			],
+			[
+				"re",
+				"requested_toppings"
+			],
+			[
+				"requ",
+				"requested_topping"
+			],
+			[
+				"papa",
+				"papa_put"
+			],
+			[
+				"my",
+				"my_pizzas"
+			],
+			[
+				"frien",
+				"friend_foods"
+			],
+			[
+				"mag",
+				"magicians"
+			],
+			[
+				"guest",
+				"guest_list"
+			],
+			[
+				"fir",
+				"first_owned"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublimebuild.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/bmegb/Documents/python_work/pygame"
+	],
+	"file_history":
+	[
+		"/C/Users/bmegb/Documents/python_work/7-8.py",
+		"/C/Users/bmegb/Documents/python_work/counting.py",
+		"/C/Users/bmegb/Documents/python_work/7-4.py",
+		"/C/Users/bmegb/Documents/python_work/7-5.py",
+		"/C/Users/bmegb/Documents/python_work/cities.py",
+		"/C/Users/bmegb/Documents/python_work/parrot.py",
+		"/C/Users/bmegb/Documents/python_work/7-2.py",
+		"/C/Users/bmegb/Documents/python_work/challenge10.py",
+		"/C/Users/bmegb/Documents/python_work/dogs.py",
+		"/C/Users/bmegb/Documents/python_work/favorite_places.py",
+		"/C/Users/bmegb/Documents/python_work/7-1.py",
+		"/C/Users/bmegb/Documents/python_work/challenge7.py",
+		"/C/Users/bmegb/Documents/python_work/user.py",
+		"/C/Users/bmegb/Documents/python_work/favorite_languages.py",
+		"/C/Users/bmegb/Documents/python_work/challenge9.py",
+		"/C/Users/bmegb/Documents/python_work/aliens.py",
+		"/C/Users/bmegb/Documents/python_work/pizza.py",
+		"/C/Users/bmegb/Documents/python_work/many_users.py",
+		"/C/Users/bmegb/Documents/python_work/challenge8.py",
+		"/C/Users/bmegb/Documents/python_work/challenge5.py",
+		"/C/Users/bmegb/Documents/python_work/challenge6.py",
+		"/C/Users/bmegb/Documents/python_work/alien.py",
+		"/C/Users/bmegb/Documents/python_work/alien_no_points.py",
+		"/C/Users/bmegb/Documents/python_work/cars.py",
+		"/C/Users/bmegb/Documents/python_work/magic_number.py",
+		"/C/Users/bmegb/Documents/python_work/banned_users.py",
+		"/C/Users/bmegb/Documents/python_work/challenge4.py",
+		"/C/Users/bmegb/Documents/python_work/voting.py",
+		"/C/Users/bmegb/Documents/python_work/toppings.py",
+		"/C/Users/bmegb/Documents/python_work/dimensions.py",
+		"/C/Users/bmegb/Documents/python_work/players.py",
+		"/C/Users/bmegb/Documents/python_work/foods.py",
+		"/C/Users/bmegb/Documents/python_work/challenge3.py",
+		"/C/Users/bmegb/Documents/python_work/pizzas.py",
+		"/C/Users/bmegb/Documents/python_work/first_numbers.py",
+		"/C/Users/bmegb/Documents/python_work/even_numbers.py",
+		"/C/Users/bmegb/Documents/python_work/squares.py",
+		"/C/Users/bmegb/Documents/python_work/challenge2.py",
+		"/C/Users/bmegb/Documents/python_work/challenge1.py",
+		"/C/Users/bmegb/Documents/python_work/world.py",
+		"/C/Users/bmegb/Documents/python_work/magicians.py",
+		"/C/Users/bmegb/Documents/python_work/hello_world.py",
+		"/C/Users/bmegb/Documents/python_work/name.py",
+		"/C/Users/bmegb/Documents/python_work/full_name.py",
+		"/C/Users/bmegb/Documents/python_work/apostrophe.py",
+		"/C/Users/bmegb/Documents/python_work/name_cases.py",
+		"/C/Users/bmegb/Documents/python_work/comment.py",
+		"/C/Users/bmegb/Documents/python_work/bicycles.py",
+		"/C/Users/bmegb/AppData/Roaming/Sublime Text 3/Packages/User/Python3.sublimebuild.sublime-build"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 197.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "alien invasion.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
